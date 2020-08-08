@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d27f5297-4ffb-4588-a2f0-f488305fa95e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifyHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifyHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2-ML_1_Toy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex2-ML_1_Toy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2-ML_2_Skin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex2-ML_2_Skin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2-ML_3_GMM.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex2-ML_3_GMM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imageHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/imageHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myMVND.py" beforeDir="false" afterPath="$PROJECT_DIR$/myMVND.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../notebooks/deep_learning/0_PyTorch_Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebooks/deep_learning/0_PyTorch_Introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../notebooks/deep_learning/1_Linear_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebooks/deep_learning/1_Linear_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../notebooks/deep_learning/2_PyTorch_Motivation_with_TORCHVISION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebooks/deep_learning/2_PyTorch_Motivation_with_TORCHVISION.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../notebooks/deep_learning/3_PyTorch_Transfer_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebooks/deep_learning/3_PyTorch_Transfer_learning.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aaXgyTu0hO8rRG1qg591FkqJ34" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Repos/minimal-scalismo-seed" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/repos/minimal-scalismo-seed" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/MetropolisSampling" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d27f5297-4ffb-4588-a2f0-f488305fa95e" name="Default Changelist" comment="" />
+      <created>1586974793588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586974793588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="77" key="#Inspections" timestamp="1586974859430">
+      <screen x="34" y="23" width="1246" height="777" />
+    </state>
+    <state x="258" y="77" key="#Inspections/34.23.1246.777@34.23.1246.777" timestamp="1586974859430" />
+    <state x="258" y="77" key="#Project_Structure" timestamp="1586975006004">
+      <screen x="34" y="23" width="1246" height="777" />
+    </state>
+    <state x="258" y="77" key="#Project_Structure/34.23.1246.777@34.23.1246.777" timestamp="1586975006004" />
+  </component>
+</project>
